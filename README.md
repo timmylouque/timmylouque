@@ -1,7 +1,7 @@
 - 👋 Hi, I’m timothy louque
 - 👀 I’m interested in my home
 - 🌱 I’m currently at school
-- 💞️ I’m looking to collaborate on school
+- 💞️ I’m looking to collaborate on getting home
 - 📫 How to reach me talk to my school
 
 <!---
